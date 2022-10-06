@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+
+body {
+	padding: 25px;
+}
+h1 {
+	margin-bottom: 1em;
+}
+h2 {
+	margin-bottom: 0.6em;
+}
+h4 {
+	padding-top: 1em;
+	padding-bottom: 0.2em;
+}
+
+.free {
+	color: #F4F3B3;
+}
+.reserved{
+	color: #F0812A;
+}
+.sold{
+	color: #A73B3B;
+}
